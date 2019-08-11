@@ -4,6 +4,16 @@
   "description": "API pokemons devs!",
   "main": "server.js",
   "repository": "https://github.com/melquiadesmario/politiciansmon.git",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
   "author": "Melquíades Mário",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
 }
