@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "API pokemons devs!",
+  "main": "server.js",
+  "repository": "https://github.com/melquiadesmario/politiciansmon.git",
+  "author": "Melquíades Mário",
+  "license": "MIT"
+}
