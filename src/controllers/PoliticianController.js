@@ -1,6 +1,8 @@
+const Politican = require('../models/Politican')
+
 class PoliticianController{
     show(req, res){
-        return res.json({ message: 'controller ok!' })
+        return res.json({ message: 'show politicans' })
     }
 }
 
